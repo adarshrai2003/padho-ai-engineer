@@ -1,0 +1,25 @@
+{
+  "weaknesses": [
+    "I tend to over-polish a solution before shipping it. I've started timeboxing myself — if something's not resolved in a set window, I ship what I have and iterate. I'm actively working on timeboxing that."
+  ],
+  "strengths": [
+    "I break down ambiguous problems into small, testable steps quickly. I pick up new tools quickly by building something real with them immediately rather than just reading docs — that's how I learned FastAPI and prompt engineering in the last few months."
+  ],
+  "hobbies": [
+    "I love playing cricket, and I play in a local league. I also enjoy reading about AI and technology trends, and I like to experiment with new programming languages and frameworks in my free time."
+  ],
+  "five_year_vision": "See myself as Senior AI Engineer. I want to be deep in AI engineering — building production systems, not just prototypes — and ideally mentoring others learning the same path, since I've found explaining concepts sharpens my own understanding.",
+  "values": [
+    "I value continuous learning and growth, both personally and professionally. I believe in the importance of collaboration and teamwork, and I strive to contribute positively to any team I'm a part of. I also value integrity and transparency in all my interactions."
+  ],
+  "work_style": "I prefer working in a collaborative environment where I can learn from others and contribute to a shared goal. I thrive in structured settings but also appreciate flexibility when it comes to how I approach tasks.",
+  "fun_facts": [
+    "I once built a small AI model that could predict the outcome of cricket matches based on historical data. It was a fun project that combined my love for cricket and AI."
+  ],
+  "family_members": [
+    "I have a close-knit family and spend quality time with them whenever possible. In my free time, I enjoy cooking and trying out new recipes, which is a hobby I share with my family."
+  ],
+  "hire_me": [
+    "I am looking for opportunities where I can contribute to impactful AI projects, learn from experienced professionals, and grow as an AI engineer. I am particularly interested in roles that allow me to work on real-world applications of AI and machine learning."
+  ]
+}
