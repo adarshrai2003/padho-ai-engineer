@@ -26,6 +26,7 @@ RESUME_EXAMPLE = {
     "name": "Jane Doe",
     "email": "jane@example.com",
     "phone": "+1-555-123-4567",
+    "location": "San Francisco, CA",
     "total_experience_years": 2.5,
     "skills": ["Python", "FastAPI", "SQL"],
     "experiences": [
@@ -40,6 +41,7 @@ RESUME_EXAMPLE = {
     "education": ["B.Tech in Computer Science, XYZ University, 2024"],
     "projects": ["Resume parsing pipeline using LLMs"],
     "certifications": ["AWS Certified Cloud Practitioner"],
+    "achievements": ["Dean's List 2022"],
 }
 
 RESUME_PARSER_SYSTEM_PROMPT = f"""You are an expert resume parser.
