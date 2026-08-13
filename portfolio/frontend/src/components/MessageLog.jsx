@@ -12,10 +12,10 @@ export default function MessageLog({ messages, isThinking }) {
     <div className="log">
       {messages.length === 0 && (
         <div className="welcome">
-          This terminal is connected to a live AI grounded in Adarsh's
+          Welcome! This terminal is connected to a live AI grounded in Adarsh's
           resume and profile.
           <br />
-          Ask a real interview question, or run a command below.
+          Ask a real question related to resume, or run a command below.
           <span className="cursor-blink" />
         </div>
       )}

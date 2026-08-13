@@ -7,7 +7,7 @@ export default function TitleBar({ online }) {
         <span className="titlebar-dot" />
       </div>
       <span className="titlebar-title">
-        candidate@portfolio <span className="titlebar-dir">~/interview</span>
+        candidate@portfolio <span className="titlebar-dir">~/-Adarsh</span>
       </span>
       <span
         className={`status-dot ${online ? "online" : "offline"}`}
