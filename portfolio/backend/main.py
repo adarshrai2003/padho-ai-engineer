@@ -22,6 +22,7 @@ app.add_middleware(
         "http://localhost:5173",
         "https://padho-ai-engineer-dxb89bw21-raiadarsh127-1015s-projects.vercel.app/",
         "https://padho-ai-engineer-b2g4a4ud2-raiadarsh127-1015s-projects.vercel.app",
+        "https://padho-ai-engineer-git-main-raiadarsh127-1015s-projects.vercel.app/",
     ],
     allow_methods=["GET", "POST"],
     allow_headers=["*"],
